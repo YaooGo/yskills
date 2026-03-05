@@ -1,0 +1,14 @@
+# 敏感信息
+.env
+*.pem
+*.key
+
+# 操作系统/编辑器
+.DS_Store
+.idea/
+.vscode/
+
+# 依赖包
+node_modules/
+vendor/
+bin/
